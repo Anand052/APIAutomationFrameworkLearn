@@ -1,7 +1,5 @@
 package com.api.automation.framework.base;
 
-// Base is father of every case - Single Inheritance
-
 // Common to All to TestCase
 //  Base Test Father -> Testcase - Son - Single Inheritance
 
